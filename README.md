@@ -10,8 +10,8 @@ Bash
 ./calculadora.sh.sh
 Dica: Se o seu sistema não tiver o bc instalado, você pode instalá-lo rapidamente com sudo apt install bc (em sistemas Debian/Ubuntu).
 
-Executando a calculadora em Ptyhon:
+Executando a calculadora em Python:
 Acesse a pasta do projeto pelo terminal do seu editor de código.
 Execute o comando:
 python calculadora.py
-Dica: se o seu sistema usa python3 como comando principal, execute python3 calc.py em vez de python calc.py
+Dica: se o seu sistema usa python3 como comando principal, execute python3 calc.py em vez de python calculadora.py
